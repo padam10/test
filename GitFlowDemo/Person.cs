@@ -8,5 +8,6 @@ namespace GitFlowDemo
 {
     class Person
     {
+        // from gitflow2
     }
 }
