@@ -21,6 +21,7 @@ namespace GitFlowDemo
             //test for team city
             //test for automated build
             //testing for master build
+            //auto build test
         }
         // thrid from gitflow1
         //6th from gitflow1
