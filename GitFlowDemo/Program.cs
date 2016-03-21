@@ -19,6 +19,7 @@ namespace GitFlowDemo
             //6th from gitflow3
             //7th from gitflow2
             //test for team city
+            //test for automated build
         }
         // thrid from gitflow1
         //6th from gitflow1
