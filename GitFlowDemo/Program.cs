@@ -22,6 +22,7 @@ namespace GitFlowDemo
             //test for automated build
             //testing for master build
             //auto build test
+            //error check feature
         }
         // thrid from gitflow1
         //6th from gitflow1
