@@ -28,7 +28,25 @@ namespace GitFlowDemo
             //April 2
             //two feature 
             //two feature improvement
+
             //Hello Padam
+
+            // from git flow 2
+            //2nd from gitflow1
+            //4th from gitflow2
+            //5th from gitflow2
+            //6th from gitflow3
+            //7th from gitflow2
+            //test for team city
+            //test for automated build
+            //testing for master build
+            //auto build test
+            //error check feature
+            // Hello Feature
+            //April Feature
+            //April 2
+
+
         }
         // thrid from gitflow1
         //6th from gitflow1
@@ -43,6 +61,18 @@ namespace GitFlowDemo
         //15th from gitflow2
         // test from gitflow2
         //Padam final test
+        //test for team city
+        //test for automated build
+        //testing for master build
+        //auto build test
+        //error check feature
+        // Hello Feature
+        //April Feature
+        //April 2
+        //two feature 
+        //two feature improvement
+        // from git flow 2
+        //2nd from gi
 
     }
 }
