@@ -13,6 +13,7 @@ namespace GitFlowDemo
             //first from gitflow1
             //fifth feature
             //fourth feature
+            //feature merget test from gitflow2
             //2nd from gitflow1
             //4th from gitflow2
             //5th from gitflow2
