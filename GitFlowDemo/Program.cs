@@ -17,6 +17,7 @@ namespace GitFlowDemo
             //Padam1
             //Padam2
             //final1
+            //new line
             //final2
             //rename commit message
             //feature test from gitflow1
