@@ -19,6 +19,7 @@ namespace GitFlowDemo
             //final1
             //new line
             //final2
+            //lastmessage
             //rename commit message
             //feature test from gitflow1
             //2nd from gitflow1
