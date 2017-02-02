@@ -8,6 +8,7 @@ namespace GitFlowDemo
 {
     class Person
     {
+        //s3
         //squash 2
         //squash 1
         // from gitflow2
