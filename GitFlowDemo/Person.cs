@@ -27,6 +27,14 @@ namespace GitFlowDemo
         // 2nd from gitflow2
         //3rd from gitflow2
         //8th from gitflow2
+		 //s7
+        //s5
+        //s4
+        //s3
+        //squash 2
+        //squash 1
+        // from gitflow2
+        // 2nd from gitflow2
     }
 }
 
