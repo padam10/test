@@ -35,6 +35,10 @@ namespace GitFlowDemo
         //squash 1
         // from gitflow2
         // 2nd from gitflow2
+		//comment 
+//yahoo
+//git flow 2 
+//yahoo
     }
 }
 
