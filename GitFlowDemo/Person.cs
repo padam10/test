@@ -26,6 +26,7 @@ namespace GitFlowDemo
         //3rd from gitflow2
         //8th from gitflow2
 		//hotfix demo
+		//new hotfix 
     }
 }
 
